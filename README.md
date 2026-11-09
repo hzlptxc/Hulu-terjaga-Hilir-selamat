@@ -23,9 +23,7 @@ Website ini hanya satu file HTML tanpa proses build.
 
 Halaman memuat font dari Google Fonts, jadi perlu koneksi internet agar tampilannya sesuai desain.
 
-## Catatan
-
-Fitur penyimpanan umpan balik hanya berfungsi saat halaman dibuka lewat Claude. Di tempat lain, formulir tidak menyimpan masukan, tetapi bagian lain tetap berjalan normal.
+## Di tempat lain, formulir tidak menyimpan masukan, tetapi bagian lain tetap berjalan normal.
 
 ## Penulis
 
